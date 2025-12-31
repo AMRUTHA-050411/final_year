@@ -1,0 +1,8 @@
+{
+  "name": "LMS Buddy System",
+  "description": "A high-performance peer-to-peer learning and collaboration module for Learning Management Systems, featuring smart buddy discovery, secure messaging, and collaborative study tools powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
